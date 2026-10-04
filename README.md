@@ -41,22 +41,22 @@ Aplikasi ini dibagi menjadi dua antarmuka utama berdasarkan _Role-Based Access C
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-**Halaman Peminjaman Publik**  
+### Halaman Peminjaman Publik 
 ![Halaman Peminjaman Publik](/src/assets/doc_github/peminjaman-publik.png)
 
-**Form Laporan Kerusakan Publik (AI Powered)**
+### Form Laporan Kerusakan Publik (AI Powered)
 ![Form Laporan Kerusakan Publik (AI Powered)](/src/assets//doc_github/laporan-kerusakan-publik.png)
 
-**Dashboard Admin - Manajemen Barang**
+### Dashboard Admin - Manajemen Barang
 ![Dashboard Admin - Manajemen Barang)](/src/assets/doc_github/manajemen-barang-admin.png)
 
-**Dashboard Admin - Manajemen Stok Barang**
+### Dashboard Admin - Manajemen Stok Barang
 ![Dashboard Admin - Manajemen Stok Barang](/src/assets/doc_github/manajemen-stok-barang-admin.png)
 
-**Dashboard Admin - Manajemen Peminjaman**
+### Dashboard Admin - Manajemen Peminjaman
 ![Dashboard Admin - Manajemen Peminjaman](/src/assets/doc_github/manajemen-peminjaman-admin.png)
 
-**Dashboard Admin - Laporan Kerusakan & Analisis AI** - `[Placeholder: admin-reports.png]`
+### Dashboard Admin - Laporan Kerusakan & Analisis AI
 ![Dashboard Admin - Laporan Kerusakan & Analisis AI](/src/assets/doc_github/manajemen-laporan-kerusakan-admin.png)
 
 ## 🛠️ Cara Instalasi & Menjalankan (Lokal)
