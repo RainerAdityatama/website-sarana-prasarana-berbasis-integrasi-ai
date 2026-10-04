@@ -1,8 +1,3 @@
-Berikut adalah draf `README.md` berstandar industri untuk repositori Anda. Format ini dirancang untuk langsung menonjolkan *Engineering Mindset* Anda, arsitektur *Client-Server State*, dan keamanan integrasi AI di mata *code reviewer* atau rekruter.
-
----
-
-```markdown
 # 🏫 SARPRAS PPM AFM - AI-Integrated Asset & Facility Management
 
 Aplikasi Single Page Application (SPA) modern untuk sistem manajemen sarana, prasarana, dan peminjaman barang di lingkungan asrama (PPM). Sistem ini dirancang dengan fokus pada efisiensi operasional, pelacakan aset real-time, dan inovasi integrasi **Google Gemini AI** via Supabase Edge Functions untuk validasi otomatis laporan kerusakan.
