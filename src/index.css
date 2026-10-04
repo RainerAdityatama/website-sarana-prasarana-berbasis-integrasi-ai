@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Menambahkan custom color palette ke dalam sistem Tailwind v4 */
+@theme {
+  --color-brand-primary: #5B7C16;
+  --color-brand-secondary: #9CCB3B;
+  --color-brand-dark: #3F570F;
+  --color-brand-light: #F4F7EB;
+}
+
+/* Base styling opsional */
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-800 antialiased;
+  }
+}
